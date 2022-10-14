@@ -42,7 +42,7 @@ function pegaArquivo(caminho){
 
 pegaArquivo('./materiais/texto.md');
 
-
+//\[[^[\]]*?\]
 
 
 
